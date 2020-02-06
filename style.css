@@ -4,19 +4,33 @@
     height: auto;
 }
 
+/* placement des liens à droite de la barre de nav*/
 .nav{
     justify-content: right;
 }
 
-span.navbar-toggler-icon{
-    color: white;
-}
-
-.card img{
+/* redimensionnement des icônes */
+img.card-img-top.icone{
     width: 50%;
     margin:auto;
 }
 
+/* redimensionnement de l'images des commentaires */
+img.card-img-top.com{
+    width: 70%;
+    margin:auto;
+}
+
+/* redimensionnement des images des partenaires*/
 .partenaire{
     width: 80%;
+}
+
+/* titre des sections */
+.titre{
+    font-size: 30px;
+}
+
+.shadow{
+    box-shadow: 1px 1px black;
 }
