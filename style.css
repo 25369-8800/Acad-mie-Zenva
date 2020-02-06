@@ -1,0 +1,9 @@
+/*redimensionnement du logo */
+.logo{
+    width: 50%;
+    height: auto;
+}
+
+.nav{
+    justify-content: right;
+}
