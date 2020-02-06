@@ -7,3 +7,16 @@
 .nav{
     justify-content: right;
 }
+
+span.navbar-toggler-icon{
+    color: white;
+}
+
+.card img{
+    width: 50%;
+    margin:auto;
+}
+
+.partenaire{
+    width: 80%;
+}
